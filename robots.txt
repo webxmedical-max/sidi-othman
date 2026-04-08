@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://sidi-othman.webxmed.ma/sitemap.xml
