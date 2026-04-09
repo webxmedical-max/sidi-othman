@@ -21,18 +21,18 @@
   --color-text-subtle:    #A3A3A3;     /* Light gray — placeholders, disabled */
   --color-text-light:     #D4D4D4;     /* Very light — decorative numbers, watermarks */
 
-  /* ---- ACCENT — BURGUNDY (10% max) ---- */
-  /* Burgundy is the single accent color. Used on: primary CTA, eyebrow, */
+  /* ---- ACCENT — DARK DEEP NAVY BLUE (10% max) ---- */
+  /* Dark deep navy blue is the single accent color. Used on: primary CTA, eyebrow, */
   /* active nav, star icons, links on hover. Never as a large surface. */
-  --color-accent:         #470101;     /* Burgundy — primary accent */
-  --color-accent-hover:   #350100;     /* Deep burgundy — hover states */
-  --color-accent-light:   #F7EDED;     /* Barely-there burgundy tint — selected, hover bg */
-  --color-accent-muted:   #6B2A2A;     /* Softer burgundy — secondary links, icons */
-  --color-accent-wash:    #FBF5F5;     /* Ultra-light burgundy wash — subtle card bg */
+  --color-accent:         #0A1835;     /* Dark deep navy blue — primary accent */
+  --color-accent-hover:   #071126;     /* Darkest navy — hover states */
+  --color-accent-light:   #EAEDF3;     /* Barely-there navy tint — selected, hover bg */
+  --color-accent-muted:   #1F3F70;     /* Softer navy — secondary links, icons */
+  --color-accent-wash:    #F3F4F8;     /* Ultra-light navy wash — subtle card bg */
 
   /* ---- DARK BACKGROUND PALETTE ---- */
   /* For footer, dark CTA bands, dark hero variants. */
-  --color-accent-on-dark:  #E8DDD3;    /* Warm beige on dark bg */
+  --color-accent-on-dark:  #9AABD2;    /* Soft steel blue on dark bg */
   --color-text-on-dark:    #FFFFFF;    /* Primary text on dark */
   --color-text-muted-dark: #A3A3A3;    /* Muted text on dark */
   --color-border-dark:     #2A2A2A;    /* Subtle dividers on dark */
@@ -127,12 +127,12 @@
 
   /* ---- SHADOWS ---- */
   /* Soft, diffused shadows — Rhode-inspired warmth */
-  --shadow-sm:  0 1px 3px 0 rgb(71 1 1 / 0.04), 0 1px 2px -1px rgb(0 0 0 / 0.03);
-  --shadow-md:  0 4px 12px -2px rgb(71 1 1 / 0.06), 0 2px 6px -2px rgb(0 0 0 / 0.04);
-  --shadow-lg:  0 12px 28px -6px rgb(71 1 1 / 0.08), 0 4px 12px -4px rgb(0 0 0 / 0.04);
-  --shadow-xl:  0 24px 48px -12px rgb(71 1 1 / 0.12), 0 8px 16px -8px rgb(0 0 0 / 0.06);
-  --shadow-glow: 0 0 0 1px rgb(71 1 1 / 0.03), 0 8px 40px -8px rgb(71 1 1 / 0.1);
-  --shadow-hover: 0 16px 40px -8px rgb(71 1 1 / 0.1), 0 4px 12px -4px rgb(0 0 0 / 0.04);
+  --shadow-sm:  0 1px 3px 0 rgb(10 24 53 / 0.04), 0 1px 2px -1px rgb(0 0 0 / 0.03);
+  --shadow-md:  0 4px 12px -2px rgb(10 24 53 / 0.06), 0 2px 6px -2px rgb(0 0 0 / 0.04);
+  --shadow-lg:  0 12px 28px -6px rgb(10 24 53 / 0.08), 0 4px 12px -4px rgb(0 0 0 / 0.04);
+  --shadow-xl:  0 24px 48px -12px rgb(10 24 53 / 0.12), 0 8px 16px -8px rgb(0 0 0 / 0.06);
+  --shadow-glow: 0 0 0 1px rgb(10 24 53 / 0.03), 0 8px 40px -8px rgb(10 24 53 / 0.1);
+  --shadow-hover: 0 16px 40px -8px rgb(10 24 53 / 0.1), 0 4px 12px -4px rgb(0 0 0 / 0.04);
 
   /* ---- EASING CURVES ---- */
   /* Fluid, elastic — never mechanical, always alive */
